@@ -14,7 +14,7 @@ This is a bare-metal STM32 project demonstrating:
 - Fully interrupt-driven design
 
 ## Hardware
-- STM32 Nucleo Board
+- STM32F411RE Nucleo Board
 - Built-in LED (PA5)
 - User button (PC13)
 
